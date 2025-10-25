@@ -13,7 +13,7 @@ Pages:
 Primary contact details (update these in the files if you want different values):
 - Head Office: 1804, 13th Cross Sector 1, HSR Layout, Bangalore
 - Mobile: +91 9980063411
-- Email: sales@lumiaprofiles.com
+- Email: sales@lumiaupvc.com
 
 Deployment:
 1. Push these files to the `main` branch (or `gh-pages`) of your GitHub repository `vikasgoodlife/vikasgoodlife.github.io`.
